@@ -1,6 +1,3 @@
-
-Bien sûr ! Voici une version plus décontractée et amusante de votre présentation GitHub :
-
 👋 Hey there, I'm @R4ja34!
 
 🌱 Currently diving into the world of React and Rails. 🚀
