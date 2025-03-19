@@ -22,8 +22,8 @@
 
 ### 📫 Get in Touch  
 💌 Feel free to reach out! Let's build something amazing together.  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-profile)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:your.email@example.com)  
+[![LinkedIn](https://www.linkedin.com/in/lalaina-rajaonarisoa-222197168/)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](raja.lalaina@gmail.com)  
 
 ---
 
