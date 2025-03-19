@@ -13,8 +13,8 @@
 ---
 
 ### 🛠️ Tech Stack  
-🔹 **Frontend:** React, HTML, CSS, JavaScript, Tailwind  
-🔹 **Backend:** Ruby on Rails, Node.js, Pythonn
+🔹 **Frontend:** React, HTML, CSS, JavaScript, Tailwind, Bootstrap
+🔹 **Backend:** Ruby on Rails, Node.js, Python
 🔹 **Database:** MongoDB, PostgreSQL  
 🔹 **Tools:** Git, 
 
@@ -22,7 +22,7 @@
 
 ### 📫 Get in Touch  
 💌 Feel free to reach out! Let's build something amazing together.  
-[![LinkedIn](https://www.linkedin.com/in/lalaina-rajaonarisoa-222197168/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lalaina-rajaonarisoa-222197168/)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](raja.lalaina@gmail.com)  
 
 ---
